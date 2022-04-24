@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(31, 27, 27);
+}
+#heading{
+    color:aquamarine;
+    font-style: helvetica;
+    font-size: 100px;
+    text-align: center;
+}
+.p
+{
+    color:aliceblue;
+    padding-right:100px;
+    padding-left:30px ;
+    font-size: 30px;
+}
+.image{
+    height:200px;
+    padding:20px;
+    
+    
+}
+
+.Dices{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.button{
+font-size: 20px;
+color:rgb(48, 134, 106);
+background-color: aquamarine;
+
+}
+.buts
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+
+}
